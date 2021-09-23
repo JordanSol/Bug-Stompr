@@ -1,0 +1,17 @@
+<svg width="1440" height="1023" viewBox="0 0 1440 1023" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f)">
+<path d="M354 773C675.982 773 937 511.982 937 190C937 -131.982 675.982 -393 354 -393C32.018 -393 -229 -131.982 -229 190C-229 511.982 32.018 773 354 773Z" fill="#1B3A4B"/>
+<path d="M604 1605C925.982 1605 1187 1343.98 1187 1022C1187 700.018 925.982 439 604 439C282.018 439 21 700.018 21 1022C21 1343.98 282.018 1605 604 1605Z" fill="#272640"/>
+<path d="M1384 853C1705.98 853 1967 591.982 1967 270C1967 -51.982 1705.98 -313 1384 -313C1062.02 -313 801 -51.982 801 270C801 591.982 1062.02 853 1384 853Z" fill="#1B3A4B"/>
+<path d="M969 808C1290.98 808 1552 546.982 1552 225C1552 -96.982 1290.98 -358 969 -358C647.018 -358 386 -96.982 386 225C386 546.982 647.018 808 969 808Z" fill="#1B3A4B"/>
+<path d="M915 1205C1236.98 1205 1498 943.982 1498 622C1498 300.018 1236.98 39 915 39C593.018 39 332 300.018 332 622C332 943.982 593.018 1205 915 1205Z" fill="#272640"/>
+<path d="M67 584C388.982 584 650 322.982 650 1C650 -320.982 388.982 -582 67 -582C-254.982 -582 -516 -320.982 -516 1C-516 322.982 -254.982 584 67 584Z" fill="#1B3A4B"/>
+</g>
+<defs>
+<filter id="filter0_f" x="-1040" y="-1106" width="3531" height="3235" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="262" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>
