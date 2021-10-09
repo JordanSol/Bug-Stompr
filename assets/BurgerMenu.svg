@@ -3,13 +3,13 @@
 <circle cx="31" cy="25" r="25" fill="#009699"/>
 </g>
 <g filter="url(#filter1_d)">
-<rect x="18.069" y="15.5172" width="25.8621" height="3.44828" rx="1.72414" fill="#C6C3FF"/>
+<rect x="18.069" y="15.5172" width="25.8621" height="3.44828" rx="1.72414" fill="#d8d6ff"/>
 </g>
 <g filter="url(#filter2_d)">
-<rect x="18.069" y="22.4138" width="25.8621" height="3.44828" rx="1.72414" fill="#C6C3FF"/>
+<rect x="18.069" y="22.4138" width="25.8621" height="3.44828" rx="1.72414" fill="#d8d6ff"/>
 </g>
 <g filter="url(#filter3_d)">
-<rect x="18.069" y="29.3104" width="25.8621" height="3.44828" rx="1.72414" fill="#C6C3FF"/>
+<rect x="18.069" y="29.3104" width="25.8621" height="3.44828" rx="1.72414" fill="#d8d6ff"/>
 </g>
 <defs>
 <filter id="filter0_d" x="0" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
